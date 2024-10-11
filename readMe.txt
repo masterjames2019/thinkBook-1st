@@ -6,3 +6,5 @@ Git is free software.
 3rd change
 
 4th index region
+
+5th Git tracks changes.
