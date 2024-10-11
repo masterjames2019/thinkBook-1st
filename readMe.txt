@@ -7,4 +7,4 @@ Git is free software.
 
 4th index region
 
-5th Git tracks changes.
+5th Git tracks changes of files.
