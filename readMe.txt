@@ -10,3 +10,5 @@ Git is free software.
 5th Git tracks changes of files.
 
 6th add new brancj 
+
+7th 2 Creating a new branch is quick & simple.
